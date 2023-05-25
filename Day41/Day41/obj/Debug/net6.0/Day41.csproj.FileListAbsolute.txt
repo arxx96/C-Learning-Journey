@@ -1,0 +1,15 @@
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\Day41.csproj.AssemblyReference.cache
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\Day41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\Day41.AssemblyInfoInputs.cache
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\Day41.AssemblyInfo.cs
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\Day41.csproj.CoreCompileInputs.cache
+C:\Users\96894\source\repos\Day41\Day41\bin\Debug\net6.0\Day41.exe
+C:\Users\96894\source\repos\Day41\Day41\bin\Debug\net6.0\Day41.deps.json
+C:\Users\96894\source\repos\Day41\Day41\bin\Debug\net6.0\Day41.runtimeconfig.json
+C:\Users\96894\source\repos\Day41\Day41\bin\Debug\net6.0\Day41.dll
+C:\Users\96894\source\repos\Day41\Day41\bin\Debug\net6.0\Day41.pdb
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\Day41.dll
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\refint\Day41.dll
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\Day41.pdb
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\Day41.genruntimeconfig.cache
+C:\Users\96894\source\repos\Day41\Day41\obj\Debug\net6.0\ref\Day41.dll

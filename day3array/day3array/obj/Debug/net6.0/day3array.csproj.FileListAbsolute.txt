@@ -1,0 +1,15 @@
+C:\Users\96894\source\repos\day3array\day3array\bin\Debug\net6.0\day3array.exe
+C:\Users\96894\source\repos\day3array\day3array\bin\Debug\net6.0\day3array.deps.json
+C:\Users\96894\source\repos\day3array\day3array\bin\Debug\net6.0\day3array.runtimeconfig.json
+C:\Users\96894\source\repos\day3array\day3array\bin\Debug\net6.0\day3array.dll
+C:\Users\96894\source\repos\day3array\day3array\bin\Debug\net6.0\day3array.pdb
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\day3array.csproj.AssemblyReference.cache
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\day3array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\day3array.AssemblyInfoInputs.cache
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\day3array.AssemblyInfo.cs
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\day3array.csproj.CoreCompileInputs.cache
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\day3array.dll
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\refint\day3array.dll
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\day3array.pdb
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\day3array.genruntimeconfig.cache
+C:\Users\96894\source\repos\day3array\day3array\obj\Debug\net6.0\ref\day3array.dll

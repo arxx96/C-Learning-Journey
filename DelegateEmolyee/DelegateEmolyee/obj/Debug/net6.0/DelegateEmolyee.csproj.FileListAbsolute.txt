@@ -1,0 +1,15 @@
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\bin\Debug\net6.0\DelegateEmolyee.exe
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\bin\Debug\net6.0\DelegateEmolyee.deps.json
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\bin\Debug\net6.0\DelegateEmolyee.runtimeconfig.json
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\bin\Debug\net6.0\DelegateEmolyee.dll
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\bin\Debug\net6.0\DelegateEmolyee.pdb
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\DelegateEmolyee.csproj.AssemblyReference.cache
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\DelegateEmolyee.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\DelegateEmolyee.AssemblyInfoInputs.cache
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\DelegateEmolyee.AssemblyInfo.cs
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\DelegateEmolyee.csproj.CoreCompileInputs.cache
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\DelegateEmolyee.dll
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\refint\DelegateEmolyee.dll
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\DelegateEmolyee.pdb
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\DelegateEmolyee.genruntimeconfig.cache
+C:\Users\96894\source\repos\DelegateEmolyee\DelegateEmolyee\obj\Debug\net6.0\ref\DelegateEmolyee.dll

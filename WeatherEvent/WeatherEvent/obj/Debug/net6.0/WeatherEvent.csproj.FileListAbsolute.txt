@@ -1,0 +1,15 @@
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\bin\Debug\net6.0\WeatherEvent.exe
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\bin\Debug\net6.0\WeatherEvent.deps.json
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\bin\Debug\net6.0\WeatherEvent.runtimeconfig.json
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\bin\Debug\net6.0\WeatherEvent.dll
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\bin\Debug\net6.0\WeatherEvent.pdb
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\WeatherEvent.csproj.AssemblyReference.cache
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\WeatherEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\WeatherEvent.AssemblyInfoInputs.cache
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\WeatherEvent.AssemblyInfo.cs
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\WeatherEvent.csproj.CoreCompileInputs.cache
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\WeatherEvent.dll
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\refint\WeatherEvent.dll
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\WeatherEvent.pdb
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\WeatherEvent.genruntimeconfig.cache
+C:\Users\96894\source\repos\WeatherEvent\WeatherEvent\obj\Debug\net6.0\ref\WeatherEvent.dll

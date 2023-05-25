@@ -1,0 +1,15 @@
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\SetGet.csproj.AssemblyReference.cache
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\SetGet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\SetGet.AssemblyInfoInputs.cache
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\SetGet.AssemblyInfo.cs
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\SetGet.csproj.CoreCompileInputs.cache
+C:\Users\96894\source\repos\SetGet\SetGet\bin\Debug\net6.0\SetGet.exe
+C:\Users\96894\source\repos\SetGet\SetGet\bin\Debug\net6.0\SetGet.deps.json
+C:\Users\96894\source\repos\SetGet\SetGet\bin\Debug\net6.0\SetGet.runtimeconfig.json
+C:\Users\96894\source\repos\SetGet\SetGet\bin\Debug\net6.0\SetGet.dll
+C:\Users\96894\source\repos\SetGet\SetGet\bin\Debug\net6.0\SetGet.pdb
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\SetGet.dll
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\refint\SetGet.dll
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\SetGet.pdb
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\SetGet.genruntimeconfig.cache
+C:\Users\96894\source\repos\SetGet\SetGet\obj\Debug\net6.0\ref\SetGet.dll

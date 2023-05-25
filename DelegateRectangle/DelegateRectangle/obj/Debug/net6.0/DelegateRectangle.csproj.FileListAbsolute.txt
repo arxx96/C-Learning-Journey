@@ -1,0 +1,15 @@
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\DelegateRectangle.csproj.AssemblyReference.cache
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\DelegateRectangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\DelegateRectangle.AssemblyInfoInputs.cache
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\DelegateRectangle.AssemblyInfo.cs
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\DelegateRectangle.csproj.CoreCompileInputs.cache
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\bin\Debug\net6.0\DelegateRectangle.exe
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\bin\Debug\net6.0\DelegateRectangle.deps.json
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\bin\Debug\net6.0\DelegateRectangle.runtimeconfig.json
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\bin\Debug\net6.0\DelegateRectangle.dll
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\bin\Debug\net6.0\DelegateRectangle.pdb
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\DelegateRectangle.dll
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\refint\DelegateRectangle.dll
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\DelegateRectangle.pdb
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\DelegateRectangle.genruntimeconfig.cache
+C:\Users\96894\source\repos\DelegateRectangle\DelegateRectangle\obj\Debug\net6.0\ref\DelegateRectangle.dll

@@ -1,0 +1,15 @@
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\bin\Debug\net6.0\FaviroteBookIndexer.exe
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\bin\Debug\net6.0\FaviroteBookIndexer.deps.json
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\bin\Debug\net6.0\FaviroteBookIndexer.runtimeconfig.json
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\bin\Debug\net6.0\FaviroteBookIndexer.dll
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\bin\Debug\net6.0\FaviroteBookIndexer.pdb
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\FaviroteBookIndexer.csproj.AssemblyReference.cache
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\FaviroteBookIndexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\FaviroteBookIndexer.AssemblyInfoInputs.cache
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\FaviroteBookIndexer.AssemblyInfo.cs
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\FaviroteBookIndexer.csproj.CoreCompileInputs.cache
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\FaviroteBookIndexer.dll
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\refint\FaviroteBookIndexer.dll
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\FaviroteBookIndexer.pdb
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\FaviroteBookIndexer.genruntimeconfig.cache
+C:\Users\96894\source\repos\FaviroteBookIndexer\FaviroteBookIndexer\obj\Debug\net6.0\ref\FaviroteBookIndexer.dll

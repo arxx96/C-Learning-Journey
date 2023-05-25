@@ -1,0 +1,15 @@
+C:\Users\96894\source\repos\indexr\indexr\bin\Debug\net6.0\indexr.exe
+C:\Users\96894\source\repos\indexr\indexr\bin\Debug\net6.0\indexr.deps.json
+C:\Users\96894\source\repos\indexr\indexr\bin\Debug\net6.0\indexr.runtimeconfig.json
+C:\Users\96894\source\repos\indexr\indexr\bin\Debug\net6.0\indexr.dll
+C:\Users\96894\source\repos\indexr\indexr\bin\Debug\net6.0\indexr.pdb
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\indexr.csproj.AssemblyReference.cache
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\indexr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\indexr.AssemblyInfoInputs.cache
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\indexr.AssemblyInfo.cs
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\indexr.csproj.CoreCompileInputs.cache
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\indexr.dll
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\refint\indexr.dll
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\indexr.pdb
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\indexr.genruntimeconfig.cache
+C:\Users\96894\source\repos\indexr\indexr\obj\Debug\net6.0\ref\indexr.dll

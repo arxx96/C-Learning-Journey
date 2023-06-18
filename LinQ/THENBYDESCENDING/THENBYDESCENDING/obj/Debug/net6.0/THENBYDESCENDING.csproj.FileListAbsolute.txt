@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\bin\Debug\net6.0\THENBYDESCENDING.exe
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\bin\Debug\net6.0\THENBYDESCENDING.deps.json
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\bin\Debug\net6.0\THENBYDESCENDING.runtimeconfig.json
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\bin\Debug\net6.0\THENBYDESCENDING.dll
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\bin\Debug\net6.0\THENBYDESCENDING.pdb
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\THENBYDESCENDING.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\THENBYDESCENDING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\THENBYDESCENDING.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\THENBYDESCENDING.AssemblyInfo.cs
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\THENBYDESCENDING.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\THENBYDESCENDING.dll
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\refint\THENBYDESCENDING.dll
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\THENBYDESCENDING.pdb
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\THENBYDESCENDING.genruntimeconfig.cache
+C:\Users\Training\source\repos\THENBYDESCENDING\THENBYDESCENDING\obj\Debug\net6.0\ref\THENBYDESCENDING.dll

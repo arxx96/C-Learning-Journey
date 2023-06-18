@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\ThenBy\ThenBy\bin\Debug\net6.0\ThenBy.exe
+C:\Users\Training\source\repos\ThenBy\ThenBy\bin\Debug\net6.0\ThenBy.deps.json
+C:\Users\Training\source\repos\ThenBy\ThenBy\bin\Debug\net6.0\ThenBy.runtimeconfig.json
+C:\Users\Training\source\repos\ThenBy\ThenBy\bin\Debug\net6.0\ThenBy.dll
+C:\Users\Training\source\repos\ThenBy\ThenBy\bin\Debug\net6.0\ThenBy.pdb
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ThenBy.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ThenBy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ThenBy.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ThenBy.AssemblyInfo.cs
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ThenBy.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ThenBy.dll
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\refint\ThenBy.dll
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ThenBy.pdb
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ThenBy.genruntimeconfig.cache
+C:\Users\Training\source\repos\ThenBy\ThenBy\obj\Debug\net6.0\ref\ThenBy.dll

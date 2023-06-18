@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\bin\Debug\net6.0\REPEATMETHOD.exe
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\bin\Debug\net6.0\REPEATMETHOD.deps.json
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\bin\Debug\net6.0\REPEATMETHOD.runtimeconfig.json
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\bin\Debug\net6.0\REPEATMETHOD.dll
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\bin\Debug\net6.0\REPEATMETHOD.pdb
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\REPEATMETHOD.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\REPEATMETHOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\REPEATMETHOD.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\REPEATMETHOD.AssemblyInfo.cs
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\REPEATMETHOD.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\REPEATMETHOD.dll
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\refint\REPEATMETHOD.dll
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\REPEATMETHOD.pdb
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\REPEATMETHOD.genruntimeconfig.cache
+C:\Users\Training\source\repos\REPEATMETHOD\REPEATMETHOD\obj\Debug\net6.0\ref\REPEATMETHOD.dll

@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\bin\Debug\net6.0\MULTIKEYGROUPING.exe
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\bin\Debug\net6.0\MULTIKEYGROUPING.deps.json
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\bin\Debug\net6.0\MULTIKEYGROUPING.runtimeconfig.json
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\bin\Debug\net6.0\MULTIKEYGROUPING.dll
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\bin\Debug\net6.0\MULTIKEYGROUPING.pdb
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\MULTIKEYGROUPING.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\MULTIKEYGROUPING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\MULTIKEYGROUPING.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\MULTIKEYGROUPING.AssemblyInfo.cs
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\MULTIKEYGROUPING.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\MULTIKEYGROUPING.dll
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\refint\MULTIKEYGROUPING.dll
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\MULTIKEYGROUPING.pdb
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\MULTIKEYGROUPING.genruntimeconfig.cache
+C:\Users\Training\source\repos\MULTIKEYGROUPING\MULTIKEYGROUPING\obj\Debug\net6.0\ref\MULTIKEYGROUPING.dll

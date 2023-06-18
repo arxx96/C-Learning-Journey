@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\bin\Debug\net6.0\SelectAndSelectMany.exe
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\bin\Debug\net6.0\SelectAndSelectMany.deps.json
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\bin\Debug\net6.0\SelectAndSelectMany.runtimeconfig.json
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\bin\Debug\net6.0\SelectAndSelectMany.dll
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\bin\Debug\net6.0\SelectAndSelectMany.pdb
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\SelectAndSelectMany.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\SelectAndSelectMany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\SelectAndSelectMany.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\SelectAndSelectMany.AssemblyInfo.cs
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\SelectAndSelectMany.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\SelectAndSelectMany.dll
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\refint\SelectAndSelectMany.dll
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\SelectAndSelectMany.pdb
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\SelectAndSelectMany.genruntimeconfig.cache
+C:\Users\Training\source\repos\SelectAndSelectMany\SelectAndSelectMany\obj\Debug\net6.0\ref\SelectAndSelectMany.dll

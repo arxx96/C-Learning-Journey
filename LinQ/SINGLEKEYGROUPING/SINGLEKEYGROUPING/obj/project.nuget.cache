@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "dA0I5l0bmV1Zi6UXq/HhtHVgwr82Po852Tn4zqxSk1D5pKzZV9X6mXMeYWtaGPnEY0386baSceqAh1Y7OBrvuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Training\\source\\repos\\SINGLEKEYGROUPING\\SINGLEKEYGROUPING\\SINGLEKEYGROUPING.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\bin\Debug\net6.0\OrderBy&OrderByDescending.exe
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\bin\Debug\net6.0\OrderBy&OrderByDescending.deps.json
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\bin\Debug\net6.0\OrderBy&OrderByDescending.runtimeconfig.json
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\bin\Debug\net6.0\OrderBy&OrderByDescending.dll
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\bin\Debug\net6.0\OrderBy&OrderByDescending.pdb
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\OrderBy&OrderByDescending.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\OrderBy&OrderByDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\OrderBy&OrderByDescending.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\OrderBy&OrderByDescending.AssemblyInfo.cs
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\OrderBy&OrderByDescending.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\OrderBy&OrderByDescending.dll
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\refint\OrderBy&OrderByDescending.dll
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\OrderBy&OrderByDescending.pdb
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\OrderBy&OrderByDescending.genruntimeconfig.cache
+C:\Users\Training\source\repos\OrderBy&OrderByDescending\OrderBy&OrderByDescending\obj\Debug\net6.0\ref\OrderBy&OrderByDescending.dll

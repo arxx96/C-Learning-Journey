@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\linq2where\linq2where\bin\Debug\net6.0\linq2where.exe
+C:\Users\Training\source\repos\linq2where\linq2where\bin\Debug\net6.0\linq2where.deps.json
+C:\Users\Training\source\repos\linq2where\linq2where\bin\Debug\net6.0\linq2where.runtimeconfig.json
+C:\Users\Training\source\repos\linq2where\linq2where\bin\Debug\net6.0\linq2where.dll
+C:\Users\Training\source\repos\linq2where\linq2where\bin\Debug\net6.0\linq2where.pdb
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\linq2where.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\linq2where.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\linq2where.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\linq2where.AssemblyInfo.cs
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\linq2where.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\linq2where.dll
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\refint\linq2where.dll
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\linq2where.pdb
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\linq2where.genruntimeconfig.cache
+C:\Users\Training\source\repos\linq2where\linq2where\obj\Debug\net6.0\ref\linq2where.dll

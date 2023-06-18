@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "uV0SHaBkYsOEkMSR2j3JGjRhK0RUHDu+DbkCJfc6skKs3VYvaKbVQQITaDzrXsTzM8RAcbwer0zab2RfcpwiDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Training\\source\\repos\\linq2where\\linq2where\\linq2where.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

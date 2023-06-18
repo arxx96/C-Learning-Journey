@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\bin\Debug\net6.0\RangeMethod.exe
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\bin\Debug\net6.0\RangeMethod.deps.json
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\bin\Debug\net6.0\RangeMethod.runtimeconfig.json
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\bin\Debug\net6.0\RangeMethod.dll
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\bin\Debug\net6.0\RangeMethod.pdb
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\RangeMethod.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\RangeMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\RangeMethod.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\RangeMethod.AssemblyInfo.cs
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\RangeMethod.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\RangeMethod.dll
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\refint\RangeMethod.dll
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\RangeMethod.pdb
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\RangeMethod.genruntimeconfig.cache
+C:\Users\Training\source\repos\RangeMethod\RangeMethod\obj\Debug\net6.0\ref\RangeMethod.dll

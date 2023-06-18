@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\REVERSE\REVERSE\bin\Debug\net6.0\REVERSE.exe
+C:\Users\Training\source\repos\REVERSE\REVERSE\bin\Debug\net6.0\REVERSE.deps.json
+C:\Users\Training\source\repos\REVERSE\REVERSE\bin\Debug\net6.0\REVERSE.runtimeconfig.json
+C:\Users\Training\source\repos\REVERSE\REVERSE\bin\Debug\net6.0\REVERSE.dll
+C:\Users\Training\source\repos\REVERSE\REVERSE\bin\Debug\net6.0\REVERSE.pdb
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\REVERSE.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\REVERSE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\REVERSE.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\REVERSE.AssemblyInfo.cs
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\REVERSE.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\REVERSE.dll
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\refint\REVERSE.dll
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\REVERSE.pdb
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\REVERSE.genruntimeconfig.cache
+C:\Users\Training\source\repos\REVERSE\REVERSE\obj\Debug\net6.0\ref\REVERSE.dll

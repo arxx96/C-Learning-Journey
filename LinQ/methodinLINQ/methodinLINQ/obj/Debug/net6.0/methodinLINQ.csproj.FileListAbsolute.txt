@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\bin\Debug\net6.0\methodinLINQ.exe
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\bin\Debug\net6.0\methodinLINQ.deps.json
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\bin\Debug\net6.0\methodinLINQ.runtimeconfig.json
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\bin\Debug\net6.0\methodinLINQ.dll
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\bin\Debug\net6.0\methodinLINQ.pdb
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\methodinLINQ.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\methodinLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\methodinLINQ.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\methodinLINQ.AssemblyInfo.cs
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\methodinLINQ.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\methodinLINQ.dll
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\refint\methodinLINQ.dll
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\methodinLINQ.pdb
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\methodinLINQ.genruntimeconfig.cache
+C:\Users\Training\source\repos\methodinLINQ\methodinLINQ\obj\Debug\net6.0\ref\methodinLINQ.dll

@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\bin\Debug\net6.0\ANY()METHOD.exe
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\bin\Debug\net6.0\ANY()METHOD.deps.json
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\bin\Debug\net6.0\ANY()METHOD.runtimeconfig.json
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\bin\Debug\net6.0\ANY()METHOD.dll
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\bin\Debug\net6.0\ANY()METHOD.pdb
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ANY()METHOD.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ANY()METHOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ANY()METHOD.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ANY()METHOD.AssemblyInfo.cs
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ANY()METHOD.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ANY()METHOD.dll
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\refint\ANY()METHOD.dll
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ANY()METHOD.pdb
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ANY()METHOD.genruntimeconfig.cache
+C:\Users\Training\source\repos\ANY()METHOD\ANY()METHOD\obj\Debug\net6.0\ref\ANY()METHOD.dll

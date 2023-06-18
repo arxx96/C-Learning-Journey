@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmLlv/8ECAjUmz+xq/aJKWm4lMxtGVJZntXmLeVNefX9KXpV70AQQmIlp7VH6CtesANLhhAoCfLjJrPTgkgEEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Training\\source\\repos\\All()Method\\All()Method\\All()Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

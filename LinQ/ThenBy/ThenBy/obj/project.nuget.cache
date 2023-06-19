@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1axXRf8CbFBGSHW8k4U+yfBvFjWGYiP1fVjbSJWcQJ1Y8mJpxhgy9Te9ufHfvvH0Ohdb9oW9gIKY//Rkztak/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Training\\source\\repos\\ThenBy\\ThenBy\\ThenBy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Training\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.15\\microsoft.netcore.app.host.win-x64.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

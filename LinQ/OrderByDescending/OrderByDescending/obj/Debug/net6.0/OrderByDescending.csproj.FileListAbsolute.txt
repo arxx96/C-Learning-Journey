@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\bin\Debug\net6.0\OrderByDescending.exe
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\bin\Debug\net6.0\OrderByDescending.deps.json
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\bin\Debug\net6.0\OrderByDescending.runtimeconfig.json
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\bin\Debug\net6.0\OrderByDescending.dll
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\bin\Debug\net6.0\OrderByDescending.pdb
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\OrderByDescending.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\OrderByDescending.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\OrderByDescending.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\OrderByDescending.AssemblyInfo.cs
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\OrderByDescending.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\OrderByDescending.dll
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\refint\OrderByDescending.dll
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\OrderByDescending.pdb
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\OrderByDescending.genruntimeconfig.cache
+C:\Users\Training\source\repos\OrderByDescending\OrderByDescending\obj\Debug\net6.0\ref\OrderByDescending.dll

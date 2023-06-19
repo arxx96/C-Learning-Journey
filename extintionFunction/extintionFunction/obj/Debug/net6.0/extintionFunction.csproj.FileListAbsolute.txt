@@ -1,0 +1,15 @@
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\extintionFunction.csproj.AssemblyReference.cache
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\extintionFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\extintionFunction.AssemblyInfoInputs.cache
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\extintionFunction.AssemblyInfo.cs
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\extintionFunction.csproj.CoreCompileInputs.cache
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\bin\Debug\net6.0\extintionFunction.exe
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\bin\Debug\net6.0\extintionFunction.deps.json
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\bin\Debug\net6.0\extintionFunction.runtimeconfig.json
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\bin\Debug\net6.0\extintionFunction.dll
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\bin\Debug\net6.0\extintionFunction.pdb
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\extintionFunction.dll
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\refint\extintionFunction.dll
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\extintionFunction.pdb
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\extintionFunction.genruntimeconfig.cache
+C:\Users\Training\source\repos\extintionFunction\extintionFunction\obj\Debug\net6.0\ref\extintionFunction.dll
